@@ -1,4 +1,4 @@
-#Hello
+# Hello
 
 ___
 
@@ -6,3 +6,12 @@ ___
 
 ___
 
+`
+function Hello() {
+    
+console.log("Hello, RS-School!!");
+}
+
+`
+
+___
